@@ -1,14 +1,35 @@
 body {
+  background-color: #f0f8ff;
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+.main {
   background-color: white;
+  width: 700px;
+  margin: 0 auto;
+  padding: 30px;
+  border: 1px solid black;
 }
 
 h1 {
-  color: grey;
+  color: darkblue;
+  text-align: center;
 }
 
 h2 {
-  color: grey;
+  color: rgb(0, 0, 0);
+  background-color: #dbdbdb;
+  padding: 5px;
 }
-h2 p {
-  margin: 10;
+
+.foto-profil {
+  width: 150px;
+  border: 2px solid black;
+  display: block;
+  margin: 0 auto;
+}
+
+ul {
+  line-height: 1.5;
 }
