@@ -1,0 +1,14 @@
+body {
+  background-color: white;
+}
+
+h1 {
+  color: grey;
+}
+
+h2 {
+  color: grey;
+}
+h2 p {
+  margin: 10;
+}
